@@ -1,0 +1,4 @@
+<manifest>
+<remote name="bitbucket" fetch="https://bitbucket.org"/>
+<project name="miniat/0x1-examples" remote="bitbucket" path="examples"/>
+</manifest>
