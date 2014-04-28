@@ -1,4 +1,7 @@
 <manifest>
-<remote name="VijayMukhi" fetch="https://github.com"/>
- <project path="vijaymukhi712" name="vijaytest1" />
+<remote  name="cm" fetch="https://github.com/" />
+ 
+<project path="bootable/recovery" name="CyanogenMod/android_bootable_recovery" remote="cm" revision="cm-10.1" />
+
+ 
 </manifest>
