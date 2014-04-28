@@ -3,6 +3,5 @@
 <remote  name="vm" fetch="https://github.com" />
  
 <project path="bootable/recovery" name="CyanogenMod/android_bootable_recovery" remote="cm" revision="cm-10.1" />
-<project path="vijay" name="vijaymukhi712/vijaytestrepo" remote="vm" />
  
 </manifest>
