@@ -1,4 +1,4 @@
 <manifest>
-<remote name="bitbucket" fetch="https://bitbucket.org"/>
-
+<remote name="VijayMukhi" fetch="https://github.com"/>
+ <project path="vijaymukhi712" name="vijaytest1" />
 </manifest>
